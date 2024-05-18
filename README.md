@@ -1,4 +1,5 @@
 # TDD Project
+![python tests](https://github.com/<your-user>/store_api/actions/workflows/ci.yml/badge.svg) [![codecov](https://codecov.io/gh/<your-user>/store_api/graph/badge.svg?token=<replace-to-your-token>)](https://codecov.io/gh/<your-user>/store_api)
 
 ## O que é TDD?
 TDD é uma sigla para `Test Driven Development`, ou Desenvolvimento Orientado a Testes. A ideia do TDD é que você trabalhe em ciclos.
